@@ -41,7 +41,15 @@ As tasks são guardadas na tabela no formato:
 
 ---
 
-## Instalação
+## Pré-requisitos
+✔Para executar o projeto, é necessário:
+
+* Ter o `Docker` instalado em sua máquina.
+* Clonar este repositório.
+* Crie um arquivo `.env` na raiz do projeto, com base no `.env.example` , definindo os valores de cada variável de ambiente usada.
+* Use o comando `docker run --name mysql -e MYSQL_ROOT_PASSWORD=root -p 3306:3306 -d mysql` na pasta do projeto após o passo seguinte para instalar a imagem do `mysql`
+
+**Instalação**
 
 Para instalar o projeto, siga estas etapas:
 
@@ -90,7 +98,7 @@ Para usar o projeto, siga estas etapas:
 
 ---
 
-## Lista de erros que você pode enfrentar trabalhando nesse projeto:
+## ⚠Lista de erros que você pode enfrentar trabalhando nesse projeto:
 
 -->> Erro por falta da validação de um parâmetro, sendo assim quando você não passar o que precisa na request o backend vai quebrar
 -> Resolução: 

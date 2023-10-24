@@ -7,7 +7,7 @@ Essa To Do List Web foi criada para estudar as integrações entre um backend co
  * [Frontend](#frontend)
  * [Backend](#backend)
  * [Database](#database)
- * [Instalação](#instalação)
+ * [Instalação](#pré-requisitos)
  * [Descrição](#descrição)
  * [Rodapé](#rodapé)
 

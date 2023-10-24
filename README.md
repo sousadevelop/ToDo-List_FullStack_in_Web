@@ -10,7 +10,7 @@ Essa To Do List Web foi criada para estudar as integrações entre um backend co
  * [Instalação](https://github.com/sousadevelop/ToDo-List_FullStack_in_Web/edit/main/README.md#instalação)
  * [Lista de erros que você pode enfrentar trabalhando nesse projeto](https://github.com/sousadevelop/ToDo-List_FullStack_in_Web/edit/main/README.md#lista-de-erros-que-você-pode-enfrentar-trabalhando-nesse-projeto)
  * [Descrição](https://github.com/sousadevelop/ToDo-List_FullStack_in_Web/edit/main/README.md#descrição)
- * [Rodapé](https://github.com/sousadevelop/ToDo-List_FullStack_in_Web/edit/main/README.md#rodapé)
+ * [Rodapé](#rodapé)
 
 *******
 
